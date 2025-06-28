@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/e428e0b8-1bce-4eae-b720-5d7f83843eba
 
 ## 🖼️ Screenshots
 
-| [App GUI Screenshot] ![Screenshot 2025-06-08 at 03 01 20](https://github.com/user-attachments/assets/4644b353-68ce-4ca0-8b63-9e969f49e243)| [Encrypted Passwords in MySQL] ![Screenshot 2025-06-08 at 03 07 04](https://github.com/user-attachments/assets/90548663-0f27-4632-95de-a3503e51ef5f)|
+| [App GUI Screenshot] ![Screenshot 2025-06-08 at 03 01 20](https://github.com/user-attachments/assets/4644b353-68ce-4ca0-8b63-9e969f49e243 =250x200)| [Encrypted Passwords in MySQL] ![Screenshot 2025-06-08 at 03 07 04](https://github.com/user-attachments/assets/90548663-0f27-4632-95de-a3503e51ef5f)|
 |:--:|:--:|
 | **Main Vault Interface** | **Encrypted Passwords Stored in DB** |
 
